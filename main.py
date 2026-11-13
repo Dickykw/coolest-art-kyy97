@@ -2,10 +2,11 @@
 """
 Entry for make.fun bounty coolest-art-01.
 
-Winning image: A luminous luna moth with pale green wings glowing from within,
-perched on a dark mossy branch against a near-black background. The moth's
-translucent wings spread to fill the frame, emitting an ethereal light that
-catches the texture of the bark and the delicate wing patterns.
+Winning image: A cute small friendly robot with round glowing eyes sitting
+on a luminous crescent moon, carefully stitching a torn glowing star back
+together with golden thread. Deep blue night sky full of twinkling stars,
+soft pastel clouds, luminous storybook style, charming and quirky, clear
+focal subject, luminous storybook sticker art a developer would love on their laptop.
 """
 import sys
 import os
