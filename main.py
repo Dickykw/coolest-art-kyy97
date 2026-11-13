@@ -2,11 +2,7 @@
 """
 Entry for make.fun bounty coolest-art-01.
 
-Winning image: A cute small friendly robot with round glowing eyes sitting
-on a luminous crescent moon, carefully stitching a torn glowing star back
-together with golden thread. Deep blue night sky full of twinkling stars,
-soft pastel clouds, luminous storybook style, charming and quirky, clear
-focal subject, luminous storybook sticker art a developer would love on their laptop.
+Winning image: A small cute child in cozy pajamas standing on a fluffy cloud, gently stitching a large glowing crescent moon with golden thread and a big needle. The moon is the dominant subject, warm luminous glow, deep blue night sky with a few twinkling stars, minimal clutter, handcrafted storybook feel, luminous storybook sticker art a developer would love on their laptop.
 """
 import sys
 import os
